@@ -1,0 +1,43 @@
+.navbar-brand{
+    font-size:20px;
+}
+ 
+
+
+body{
+    font-family: 'Patrick Hand', cursive;
+    background-color: azure;
+   
+  
+}
+.jumbotron{
+    min-height: 200px;
+  
+}
+
+ footer {
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    padding-top:100px;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
